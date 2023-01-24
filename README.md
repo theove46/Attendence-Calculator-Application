@@ -1,6 +1,5 @@
 # Attendance Calculator Application: 
-It is a cross-platform application built with the Flutter framework.
-
 It was built in January 2023.
-It calculates class attendance by date. 
-It will show Safe in a green circle if attendance is 80% or more. Otherwise, it will show a red circle.
+● Developed UI with Flutter Framework, Dart Language and implemented responsiveness.
+● This mobile application calculates class attendance by date.
+● After calculation shows green if attendance is 80% or more, otherwise, shows red.
